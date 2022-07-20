@@ -2,5 +2,5 @@
 	"""Define a class square"""
 class Square:
 	"""an empty class"""
-	pass
-Square.self =  Square()
+	def __int__(self):
+		pass
