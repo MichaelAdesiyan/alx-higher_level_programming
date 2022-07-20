@@ -4,3 +4,5 @@ class Square:
 	"""an empty class"""
 	def __int__(self):
 		pass
+if __name__ == "__main__":
+	square()
