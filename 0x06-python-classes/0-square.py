@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/bash/python3
 	"""Define a class square"""
 class Square:
 	"""an empty class"""
